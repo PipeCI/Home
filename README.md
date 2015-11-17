@@ -8,6 +8,10 @@ This is a public benefit project, and open-sourced on GitHub, you can open an is
 
 The person who is contributing to Pipe CI have to watch the `Announcements` repo, The breaking changes and announcements will be filed in this repo.
 
+## Nightly Builds
+
+MyGet Feed: `https://www.myget.org/F/pipeci/api/v3/index.json`
+
 ## Repositories
 
 | Title | Responsible person |
