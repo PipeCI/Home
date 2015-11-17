@@ -11,6 +11,8 @@ The person who is contributing to Pipe CI have to watch the `Announcements` repo
 ## Nightly Builds
 
 MyGet Feed: `https://www.myget.org/F/pipeci/api/v3/index.json`
+Demo site: `http://demo.pipeci.com`
+Stable site: `http://www.pipeci.com`
 
 ## Repositories
 
