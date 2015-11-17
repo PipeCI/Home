@@ -1,6 +1,6 @@
 # Pipe CI Home
 
-Pipe CI is an open-sourced continuous integration platform which contains multiplex environment like osx, linux and windows. Besides, users are able to make experiments in our site, there are many catagories experiment to help starter with getting start.
+Pipe CI is an open-sourced continuous integration platform which contains multiplex environment like osx, linux and windows. Besides, users are able to make experiments in our site, there are many catagories experiment to help starters with getting start.
 
 ## Contribute
 
