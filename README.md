@@ -31,6 +31,7 @@ Stable site: `http://www.pipeci.com`
 |Tooling|[@Kagamine](https://github.com/kagamine)|
 |ExperimentStorage|[@Kagamine](https://github.com/kagamine)|
 |YmlAbstractions|[@wph95](https://github.com/wph95)|
+|Pipeci-yml|[@wph95](https://github.com/wph95)|
 
 
 ## License
