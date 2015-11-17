@@ -17,3 +17,8 @@ This is a public benefit project, and open-sourced on GitHub, you can open an is
 |Tooling|[@Kagamine](https://github.com/kagamine)|
 |ExperimentStorage|[@Kagamine](https://github.com/kagamine)|
 |YmlAbstractions|[@wph95](https://github.com/wph95)|
+
+
+## License
+
+GNU General Public License (GPL) v2
