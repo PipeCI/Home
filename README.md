@@ -24,7 +24,7 @@ Stable site: `http://www.pipeci.com`
 
 | Repository | Responsible person |
 |------------|--------------------|
-|pipeci.org|[@Kagamine](https://github.com/kagamine)|
+|pipeci.com|[@Kagamine](https://github.com/kagamine)|
 |Node|[@Kagamine](https://github.com/kagamine)|
 |Node-windows|[@wph95](https://github.com/wph95)|
 |Node-linux|[@wph95](https://github.com/wph95)|
