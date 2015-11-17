@@ -8,6 +8,12 @@ This is a public benefit project, and open-sourced on GitHub, you can open an is
 
 ## Repositories
 
-| Title | responsible person |
+| Title | Responsible person |
 |-------|--------------------|
-|pipeci.org|@Kagamine|
+|pipeci.org|[@Kagamine](https://github.com/kagamine)|
+|Node-windows|[@wph95](https://github.com/wph95)|
+|Node-linux|[@wph95](https://github.com/wph95)|
+|Node-osx|[@Kagamine](https://github.com/kagamine)|
+|Tooling|[@Kagamine](https://github.com/kagamine)|
+|ExperimentStorage|[@Kagamine](https://github.com/kagamine)|
+|YmlAbstractions|[@wph95](https://github.com/wph95)|
