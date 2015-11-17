@@ -29,6 +29,7 @@ Stable site: `http://www.pipeci.com`
 |Node-windows|[@wph95](https://github.com/wph95)|
 |Node-linux|[@wph95](https://github.com/wph95)|
 |Node-osx|[@Kagamine](https://github.com/kagamine)|
+|Task Dispatcher|[@Kagamine](https://github.com/kagamine), [@wph95](https://github.com/wph95)|
 |Tooling|[@Kagamine](https://github.com/kagamine)|
 |Templates|[@wph95](https://github.com/wph95)|
 |ExperimentStorage|[@Kagamine](https://github.com/kagamine)|
