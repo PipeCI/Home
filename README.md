@@ -37,6 +37,9 @@ Stable site: `http://www.pipeci.com`
 |Pipeci-yml|[@wph95](https://github.com/wph95)|
 |Publishers|[@Kagamine](https://github.com/Kagamine)|
 
+## Documents
+
+[Read the documents](http://pipe-ci.readthedocs.org/)
 
 ## License
 
