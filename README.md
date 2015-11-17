@@ -30,6 +30,7 @@ Stable site: `http://www.pipeci.com`
 |Node-linux|[@wph95](https://github.com/wph95)|
 |Node-osx|[@Kagamine](https://github.com/kagamine)|
 |Tooling|[@Kagamine](https://github.com/kagamine)|
+|Templates|[@wph95](https://github.com/wph95)|
 |ExperimentStorage|[@Kagamine](https://github.com/kagamine)|
 |YmlAbstractions|[@wph95](https://github.com/wph95)|
 |Pipeci-yml|[@wph95](https://github.com/wph95)|
