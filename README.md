@@ -10,6 +10,8 @@ Bugs, suggestions should be filed on the specific repositories unless the bug oc
 
 The person who is contributing to Pipe CI have to watch the `Announcements` repo, The breaking changes and announcements will be filed in this repo.
 
+DO NOT open an issue on `PipeCI/Announcements`. In this repo, issues will be opened by staff only.
+
 ## Nightly Builds
 
 MyGet Feed: `https://www.myget.org/F/pipeci/api/v3/index.json`
