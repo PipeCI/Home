@@ -26,18 +26,18 @@ Stable site: `http://www.pipeci.com`
 
 | Repository | Responsible person |
 |------------|--------------------|
-|pipeci.com|[@Kagamine](https://github.com/kagamine)|
-|Node|[@Kagamine](https://github.com/kagamine)|
-|Node-windows|[@wph95](https://github.com/wph95)|
-|Node-linux|[@wph95](https://github.com/wph95)|
-|Node-osx|[@Kagamine](https://github.com/kagamine)|
-|Task Dispatcher|[@Kagamine](https://github.com/kagamine), [@wph95](https://github.com/wph95)|
-|Tooling|[@Kagamine](https://github.com/kagamine)|
-|Templates|[@wph95](https://github.com/wph95)|
-|ExperimentStorage|[@Kagamine](https://github.com/kagamine)|
-|YmlAbstractions|[@wph95](https://github.com/wph95)|
-|Pipeci-yml|[@wph95](https://github.com/wph95)|
-|Publishers|[@Kagamine](https://github.com/Kagamine)|
+|[pipeci.com](https://github.com/pipeci/pipeci.com)|[@Kagamine](https://github.com/kagamine)|
+|[Node](https://github.com/pipeci/node)|[@Kagamine](https://github.com/kagamine)|
+|[Node-windows](https://github.com/pipeci/Node-windows)|[@wph95](https://github.com/wph95)|
+|[Node-linux](https://github.com/pipeci/Node-linux)|[@wph95](https://github.com/wph95)|
+|[Node-osx](https://github.com/pipeci/Node-osx)|[@Kagamine](https://github.com/kagamine)|
+|[Task Dispatcher](https://github.com/pipeci/taskdispatcher)|[@Kagamine](https://github.com/kagamine), [@wph95](https://github.com/wph95)|
+|[Tooling](https://github.com/pipeci/Tooling)|[@Kagamine](https://github.com/kagamine)|
+|[Templates](https://github.com/pipeci/Templates)|[@wph95](https://github.com/wph95)|
+|[ExperimentStorage](https://github.com/pipeci/ExperimentStorage)|[@Kagamine](https://github.com/kagamine)|
+|[YmlAbstractions](https://github.com/pipeci/YmlAbstractions)|[@wph95](https://github.com/wph95)|
+|[Pipeci-yml](https://github.com/pipeci/Pipeci-yml)|[@wph95](https://github.com/wph95)|
+|[Publishers](https://github.com/pipeci/Publishers)|[@Kagamine](https://github.com/Kagamine)|
 
 ## Documents
 
