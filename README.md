@@ -1,5 +1,7 @@
 # Pipe CI Home
 
+![Pipe CI](https://cloud.githubusercontent.com/assets/2216750/11240012/63778992-8e2a-11e5-90f2-3ade14c4f6dc.png)
+
 Pipe CI is an open-sourced continuous integration platform which contains multiplex environment like osx, linux and windows. Besides, users are able to make experiments in our site, there are many catagories experiment to help starters with getting start.
 
 ## Contribute
