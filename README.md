@@ -43,6 +43,47 @@ Stable site: `http://www.pipeci.com`
 
 [Read the documents](http://pipe-ci.readthedocs.org/)
 
+## Schedule and Roadmap
+
+| Milestone | Release week |
+|-----------|--------------|
+| alpha1 | Dec 11th 2015 |
+| alpha2 | Jan 8th 2016 |
+| beta1 | Jan 22th 2016 |
+| beta2 | Feb 5th 2016 |
+| beta3 | Feb 19th 2016 |
+| beta4 | Mar 4th 2016 |
+| rc1 | Mar 25th 2016 |
+| rtm | May 13th 2016 |
+
+#### Alpha1
+
+Implementing the linux ci module, ensure the sandbox is safety and stable. Designing the pipeci.yml file structure, finishing the yml analyser. Building the infrastructures of website.
+
+#### Alpha2
+
+Implementing the other platforms ci modules. Real-time notifications completed.
+
+#### Beta1
+
+Implementing experiment modules, installization templates, docker images.
+
+#### Beta2
+
+Implementing the forum modules.
+
+#### Beta3
+
+Optimizing the task dispatcher and nodes.
+
+#### Beta 4
+
+Beta4 is the last major feature milestone planned before moving into a stabilization phase for RC1.
+
+#### RC1
+
+The focus for RC1 will be on polishing existing features, responding to customer feedback and improving performance and reliability. The goal is for RC1 to be a stable and production ready release.
+
 ## License
 
 GNU General Public License (GPL) v2
