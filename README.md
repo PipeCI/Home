@@ -56,23 +56,23 @@ Stable site: `http://www.pipeci.com`
 | rc1 | Mar 25th 2016 |
 | rtm | May 13th 2016 |
 
-#### Alpha1
+#### Alpha 1
 
 Implementing the linux ci module, ensure the sandbox is safety and stable. Designing the pipeci.yml file structure, finishing the yml analyser. Building the infrastructures of website.
 
-#### Alpha2
+#### Alpha 2
 
 Implementing the other platforms ci modules. Real-time notifications completed.
 
-#### Beta1
+#### Beta 1
 
 Implementing experiment modules, installization templates, docker images.
 
-#### Beta2
+#### Beta 2
 
 Implementing the forum modules.
 
-#### Beta3
+#### Beta 3
 
 Optimizing the task dispatcher and nodes.
 
@@ -80,7 +80,7 @@ Optimizing the task dispatcher and nodes.
 
 Beta4 is the last major feature milestone planned before moving into a stabilization phase for RC1.
 
-#### RC1
+#### RC 1
 
 The focus for RC1 will be on polishing existing features, responding to customer feedback and improving performance and reliability. The goal is for RC1 to be a stable and production ready release.
 
