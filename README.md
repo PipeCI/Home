@@ -36,7 +36,7 @@ Stable site: `http://www.pipeci.com`
 |[Tooling](https://github.com/pipeci/Tooling)|[@Kagamine](https://github.com/kagamine)|
 |[Templates](https://github.com/pipeci/Templates)|[@wph95](https://github.com/wph95)|
 |[ExperimentStorage](https://github.com/pipeci/ExperimentStorage)|[@Kagamine](https://github.com/kagamine)|
-|[YmlAbstractions](https://github.com/pipeci/YmlAbstractions)|[@wph95](https://github.com/wph95)|
+|[Yml](https://github.com/pipeci/Yml)|[@Kagamine](https://github.com/wph95)|
 |[Pipeci-yml](https://github.com/pipeci/Pipeci-yml)|[@wph95](https://github.com/wph95)|
 |[Publishers](https://github.com/pipeci/Publishers)|[@Kagamine](https://github.com/Kagamine)|
 
