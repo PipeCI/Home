@@ -32,7 +32,7 @@ Stable site: `http://www.pipeci.com`
 |[Node-linux](https://github.com/pipeci/Node-linux)|[@wph95](https://github.com/wph95)|
 |[Node-osx](https://github.com/pipeci/Node-osx)|[@Kagamine](https://github.com/kagamine)|
 |[Node-lite](https://github.com/pipeci/Node-lite)|[@Kagamine](https://github.com/kagamine)|
-|[BlobStorage](https://github.com/pipeci/BlobStorage)|[@Jeffiy](https://github.com/Jeffiy)|
+|[Blob Storage](https://github.com/pipeci/BlobStorage)|[@Jeffiy](https://github.com/Jeffiy)|
 |[Task Dispatcher](https://github.com/pipeci/taskdispatcher)|[@Kagamine](https://github.com/kagamine), [@wph95](https://github.com/wph95)|
 |[Tooling](https://github.com/pipeci/Tooling)|[@Kagamine](https://github.com/kagamine)|
 |[Templates](https://github.com/pipeci/Templates)|[@wph95](https://github.com/wph95)|
