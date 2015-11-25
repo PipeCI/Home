@@ -32,10 +32,11 @@ Stable site: `http://www.pipeci.com`
 |[Node-linux](https://github.com/pipeci/Node-linux)|[@wph95](https://github.com/wph95)|
 |[Node-osx](https://github.com/pipeci/Node-osx)|[@Kagamine](https://github.com/kagamine)|
 |[Node-lite](https://github.com/pipeci/Node-lite)|[@Kagamine](https://github.com/kagamine)|
+|[BlobStorage](https://github.com/pipeci/BlobStorage)|[@Jeffiy](https://github.com/Jeffiy)|
 |[Task Dispatcher](https://github.com/pipeci/taskdispatcher)|[@Kagamine](https://github.com/kagamine), [@wph95](https://github.com/wph95)|
 |[Tooling](https://github.com/pipeci/Tooling)|[@Kagamine](https://github.com/kagamine)|
 |[Templates](https://github.com/pipeci/Templates)|[@wph95](https://github.com/wph95)|
-|[ExperimentStorage](https://github.com/pipeci/ExperimentStorage)|[@Kagamine](https://github.com/kagamine)|
+|[Experiment](https://github.com/pipeci/Experiment)|[@Kagamine](https://github.com/kagamine)|
 |[Yml](https://github.com/pipeci/Yml)|[@Kagamine](https://github.com/wph95)|
 |[Pipeci-yml](https://github.com/pipeci/Pipeci-yml)|[@wph95](https://github.com/wph95)|
 |[Publishers](https://github.com/pipeci/Publishers)|[@Kagamine](https://github.com/Kagamine)|
