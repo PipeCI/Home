@@ -8,7 +8,7 @@ Pipe CI is an open-sourced continuous integration platform which contains multip
 
 This is a public benefit project, and open-sourced on GitHub, you can open an issue or create a pull request to contribute to Pipe CI. You can also join the QQ group: 277985107. All of the repositories are under GNU GPL v2 license.
 
-Bugs, suggestions should be filed on the specific repositories unless the bug occurred with a project which is not an OSS. General discussion is located in `PipeCI/Home` repository.
+Bugs, suggestions should be filed on the specific repositories unless the bug occurred with a project which is not OSS. General discussion is located in `PipeCI/Home` repository.
 
 The person who is contributing to Pipe CI have to watch the `Announcements` repo, The breaking changes and announcements will be filed in this repo.
 
